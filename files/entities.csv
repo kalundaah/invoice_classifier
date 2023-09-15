@@ -1,39 +1,41 @@
 ,id,entity_text,entity_label
 0,1,Stanford Plumbing & Heating,ORG
-1,1,123,CARDINAL
-2,1,Seattle,GPE
+1,1,128,CARDINAL
+2,1,Madison,PERSON
 3,1,WA,GPE
-4,1,78290,CARDINAL
+4,1,72290,DATE
 5,1,Allen Sith,PERSON
-6,1,27,CARDINAL
+6,1,87,CARDINAL
 7,1,Seattle,GPE
 8,1,9002 - 1898,DATE
-9,1,Insaegnewletehen,PERSON
-10,1,20 ayy PayPal feb Getanorplumbing cm,TIME
-11,1,Balance Due,PERSON
-12,1,"2,808.90",MONEY
-13,2,"Stanford Plumbing & Heating 
- beottsanforeplamarg cm",ORG
-14,2,0,CARDINAL
-15,2,hone,CARDINAL
-16,2,2018,DATE
-17,2,2018,DATE
-18,2,Allen Smith,PERSON
-19,2,102-,CARDINAL
-20,2,suc,CARDINAL
-21,2,about ness 73,CARDINAL
-22,2,net plow ana,ORG
-23,2,54,CARDINAL
-24,2,¢~ ens,PERSON
-25,2,28,CARDINAL
-26,2,1,CARDINAL
-27,2,139,CARDINAL
-28,2,Nese,NORP
-29,2,1,CARDINAL
-30,2,222 088,CARDINAL
-31,2,Greenscar 3th,DATE
-32,2,1,CARDINAL
-33,2,"2,688.00",MONEY
-34,2,Notes,PRODUCT
-35,2,20 days,DATE
-36,2,Inark,PERSON
+9,1,nea newtehen,ORG
+10,1,Toto,ORG
+11,1,20,CARDINAL
+12,1,PayPal feb Getanforplumbing,LAW
+13,1,Balance Due,PERSON
+14,1,"2,808.90",MONEY
+15,2,"Stanford Plumbing & Heating 
+ beottsanforepLamarg cm",ORG
+16,2,12s,CARDINAL
+17,2,20,CARDINAL
+18,2,2018,DATE
+19,2,2018,DATE
+20,2,Allen Smith,PERSON
+21,2,1920,DATE
+22,2,suc,CARDINAL
+23,2,9,CARDINAL
+24,2,ety plow ana,ORG
+25,2,54,CARDINAL
+26,2,¢~ ens,PERSON
+27,2,28,CARDINAL
+28,2,1 sue,MONEY
+29,2,Nese,NORP
+30,2,1,CARDINAL
+31,2,222 088,CARDINAL
+32,2,Greenscar 3th,DATE
+33,2,1,CARDINAL
+34,2,Brera,GPE
+35,2,"2,688.00",MONEY
+36,2,Notes,PRODUCT
+37,2,20 day,DATE
+38,2,Inark,PERSON
