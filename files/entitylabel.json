@@ -1,0 +1,22 @@
+{
+    "label": {
+        "0": "ORG",
+        "1": "recipient",
+        "2": "Balance"
+    },
+    "text": {
+        "0": "Stanford Plumbing & Heating",
+        "1": "Allen Smith",
+        "2": "$2,688.00"
+    },
+    "start": {
+        "0": 9,
+        "1": 53,
+        "2": 393
+    },
+    "end": {
+        "0": 36,
+        "1": 64,
+        "2": 402
+    }
+}

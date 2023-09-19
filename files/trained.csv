@@ -6,7 +6,7 @@ beottsanforepLamarg cm
 12s sadiean dre
 te wh
 20
-Phone sib.","{'entities': [[9, 36, 'ORG'], [53, 64, 'recipient'], [393, 402, 'Balance']]}"
+Phone sib.","{'entities': [['ORG', 'Stanford Plumbing & Heating', 9, 36], ['recipient', 'Allen Smith', 53, 64], ['Balance', '$2,688.00', 393, 402]]}"
 "ches
 
 Number mncuoe
@@ -40,4 +40,4 @@ Notes
 ease pay vat 20 day by Fay: est@scanfoepLamoig com
 
 Inark yea for you busiest
-","{'entities': [[9, 36, 'ORG'], [53, 64, 'recipient'], [393, 402, 'Balance']]}"
+","{'entities': [['ORG', 'Stanford Plumbing & Heating', 9, 36], ['recipient', 'Allen Smith', 53, 64], ['Balance', '$2,688.00', 393, 402]]}"
